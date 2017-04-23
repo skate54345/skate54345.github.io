@@ -1,0 +1,170 @@
+body{
+	background-image: url(background4.png);
+	background-size: cover;
+	background-position: center;
+	background-attachment:fixed;
+
+}
+
+#header{
+	text-align: center;
+	height:60px;
+}
+
+#jump a{
+	font-family: OCR A Std, monospace;
+	font-weight:lighter;
+	color:white;
+	font-size:18px;
+}
+
+#jump a:hover{
+	font-weight:bold;
+}
+	
+#header li{
+	text-transform:uppercase;
+	display: inline-block;
+	border:solid;
+	border-color: lightgray;
+	border-radius: 5px;
+	padding: 4px;
+	
+}
+
+#Gear h1{
+	font-size:50px;
+	font-family: OCR A Std, monospace;
+	font-weight:lighter;
+	text-align:center;
+	text-transform:uppercase;
+	color:white;
+	
+	text-shadow:
+	-1px -1px 0 #eb0000,
+	1px -1px 0 #eb0000,
+	-1px 1px 0 #eb0000,
+	1px 1px 0 #eb0000;
+}
+
+#Gear h2{	
+	font-weight:lighter;
+	text-shadow:
+	-1px -1px 0 #eb0000,
+	1px -1px 0 #eb0000,
+	-1px 1px 0 #eb0000,
+	1px 1px 0 #eb0000;
+	color:white;
+}
+
+
+#Gear{
+	border-color:white;
+	font-size: 16px;
+	font-family: OCR A Std, monospace;
+	line-height: 1.5em;
+	border-radius:5px;
+	position:relative;
+	margin:50px;
+	margin-left:15%;
+	margin-right:15%;
+	
+}
+
+#Gear li{
+	list-style-type:none;
+	color:white;
+}
+
+a:hover {
+    color:#eb0000;
+	font-weight:bold;
+}
+
+#footer{
+	font-size: 17px;
+	background-color: AliceBlue;
+	color: gray;
+	text-align: center;
+    position:bottom;
+    bottom:0;
+	left:0;
+    width:100%;
+    height:68px;
+	line-height: 1.4em;
+	font-family: OCR A Std, monospace;
+}
+
+#phone{
+	font-weight:bold;
+}
+
+form{
+	position:static;
+	text-align:center; 
+}
+
+#contact{
+	text-align: center;
+}
+
+#text{
+
+	font-size: 17px;
+	font-family: OCR A Std, monospace;
+	border-radius: 5px;
+    padding:30px;
+	color:white;
+
+	display:table;
+	position:relative;
+	margin-left:15%;
+	margin-right:15%;
+	
+	
+}
+
+
+
+img{
+	float:center;
+	max-width: 100%;
+	
+    height:auto;
+    width:auto;
+}
+
+h1{
+	left: 10%;
+	right: 10%;
+	font-size: 20px;
+	font-family: OCR A Std, monospace;
+}
+
+#footer img{
+	width:75px;
+	height:18px;
+}
+
+.nav{
+	font-size: 30px;
+	background-color: AliceBlue;
+}
+
+.nav li{
+	font-family: OCR A Std, monospace;
+	background-color: white;
+}
+
+.nav li:hover{
+	background-color:#e0efff;;
+}
+	
+a{
+	color: black;
+	text-decoration: none;
+}
+
+#logo{
+	text-align:center;
+}

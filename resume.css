@@ -1,0 +1,28 @@
+*{
+	color: DarkSlateGrey;
+	text-decoration: none;
+}
+
+#fixedNotification{
+	position:fixed; 
+	top:1%; 
+	right:3%;
+	background-color:gray;
+}
+
+.left_sidebar{
+	position:relative;
+	top:10%;
+	width: 200px;
+	height: 500px;
+	float:left;
+	border:solid;
+}
+
+.resume{
+	left:20%;
+	text-align:center;
+}
+
+ul{
+}
